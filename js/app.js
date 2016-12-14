@@ -13,13 +13,14 @@ $(document).ready(function() {
 
     $('#navMobile').on("click", function() {
       $('#dropdown').fadeToggle();
-      jQuery(".burgerMenu").toggleClass('show');
+      $(".burgerMenu").toggleClass('show');
     })
 
     var menuLi = $('#dropdown').find('li');
     menuLi.each(function(){
       $(this).on("click", function(){
         $('#dropdown').fadeOut();
+        $(".burgerMenu").toggleClass('show');
       })
     })
 
