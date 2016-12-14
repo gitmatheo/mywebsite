@@ -13,6 +13,7 @@ $(document).ready(function() {
 
     $('#navMobile').on("click", function() {
       $('#dropdown').fadeToggle();
+      jQuery(".burgerMenu").toggleClass('show');
     })
 
     var menuLi = $('#dropdown').find('li');
@@ -21,5 +22,6 @@ $(document).ready(function() {
         $('#dropdown').fadeOut();
       })
     })
+
 
 });
