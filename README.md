@@ -1,4 +1,4 @@
 # mywebsite
-This is my personal website
+This is my simple personal website
 
-Just visit gitmatheo.github.io/mywebsite or mateuszdominiak.pl if you want to see it.
+Just [click here](https://gitmatheo.github.io/mywebsite). or visit [mateuszdominiak.pl](http://mateuszdominiak.pl) if you want to see it.
