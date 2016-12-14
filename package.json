@@ -10,7 +10,9 @@
     "gulp-sass": "^2.3.2",
     "gulp-sourcemaps": "^2.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-minify": "0.0.14"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
