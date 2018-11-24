@@ -1,3 +1,3 @@
 # mywebsite
 
-Just visit http://mateuszdominiak.pl
+Just visit https://gitmatheo.github.io/mywebsite/
