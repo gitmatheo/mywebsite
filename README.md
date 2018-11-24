@@ -1,3 +1,3 @@
 # mywebsite
-This is my personal website
-just visit http://mateuszdominiak.pl
+This is my personal website.
+Just visit http://mateuszdominiak.pl
